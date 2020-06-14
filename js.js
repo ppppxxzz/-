@@ -56,7 +56,11 @@ function itonplus(i, iton) {
   a[times] = iton;
   b[iton]++;
   times++;
+  updata();
 }
 
+function updata(){
+  
+}
 
 
