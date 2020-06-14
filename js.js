@@ -37,11 +37,13 @@ function clickspan(f) {
   //menu
   $.getJSON('restaurant.json', function (data) {
     $.each(data, function (i, d) {
+      
       if (f == d.id) {
 
-        for (var i = 1; d.i; i++) {
-          var tblRow = '<p style=" padding-bottom:40px;" id="iton' + i + '" onclick="itonplus(' + i + ',' + d.i + ')">' + d.i + '</p>'
+        for (var y = 0; d.y; y++) {
+          var tblRow = '<p style=" padding-bottom:40px;" id="iton' + y + '" onclick="itonplus(' + y + ',' + d.y + ')">' + d.y + '</p>'
           $(tblRow).appendTo("#menu");
+          alert("I am an alert box!");
         }
 
       }
