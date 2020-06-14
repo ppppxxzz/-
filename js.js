@@ -34,17 +34,19 @@ function clickspan(f) {
 
   });
   var menu = [];
+  var ad = ['A', 'B', 'C', 'D'];
   //menu
   $.getJSON('restaurant.json', function (data) {
     $.each(data.menu, function (i, d) {
 
       if (f == d.id) {
 
-        for (var y = "A"; y < "C"; y++) {
-          
-          var tblRow = '<p style=" padding-bottom:40px;" id="iton' + y + '" onclick="itonplus()">' + d.y + '</p>'
-          $(tblRow).appendTo("#menu");
-          console.log(1);
+        for (var y = 0; y < 3; y++) {
+          for (var y = 0; y < 4; y++) {
+            var tblRow = '<p style=" padding-bottom:40px;" id="iton' + y + '" onclick="itonplus()">' + d.ad[y] + '</p>'
+            $(tblRow).appendTo("#menu");
+            console.log(1);
+          }
         }
 
       }
