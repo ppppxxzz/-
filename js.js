@@ -1,6 +1,6 @@
 
 
-var restaurant=[];
+var restaurant = [];
 
 function enterstore() {
   $.getJSON('restaurant.json', function (data) {
@@ -33,17 +33,18 @@ function clickspan(f) {
     });
 
   });
-var menu=[];
+  var menu = [];
   //menu
   $.getJSON('restaurant.json', function (data) {
     $.each(data.menu, function (i, d) {
 
       if (f == d.id) {
-        console.log(1);
-        for (var y = 0; y < 3; y++) {
-          var tblRow = '<p style=" padding-bottom:40px;" id="iton' + y + '" onclick="itonplus(' + y + ',' + d.y + ')">' + d.y + '</p>'
-          $(tblRow).appendTo("#menu");
 
+        for (var y = "A"; y < "C"; y++) {
+          
+          var tblRow = '<p style=" padding-bottom:40px;" id="iton' + y + '" onclick="itonplus()">' + d.y + '</p>'
+          $(tblRow).appendTo("#menu");
+          console.log(1);
         }
 
       }
