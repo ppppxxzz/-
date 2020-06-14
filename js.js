@@ -39,23 +39,23 @@ function clickspan(f) {
     $.each(data, function (i, d) {
       if (f == d.id) {
 
-        for(var i=1;d.i;i++){
-          var tblRow = '<p id="iton'+ i +'" onclick="itonplus('+ i +')">'+ d.i +'</p>'
-        $(tblRow).appendTo("#menu");
+        for (var i = 1; d.i; i++) {
+          var tblRow = '<p id="iton' + i + '" onclick="itonplus(' + i + ',' + d.i + ')">' + d.i + '</p>'
+          $(tblRow).appendTo("#menu");
         }
-        
+
       }
     });
 
   });
 
 }
-var a = [];
+var a = [], times = 0;
 var b = [];
-function itonplus(i){
-
-
-
+function itonplus(i, iton) {
+  a[times] = iton;
+  b[iton]++;
+  times++;
 }
 
 
