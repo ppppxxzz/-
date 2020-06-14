@@ -52,6 +52,7 @@ function clickspan(f) {
 }
 var a = [], times = 0;
 var b = [];
+
 function itonplus(i, iton) {
   a[times] = iton;
   b[iton]++;
