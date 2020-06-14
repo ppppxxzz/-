@@ -1,22 +1,51 @@
-$(function () {
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" />
+    <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+    <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
 
 
-      var restaurant = [];
 
-      $.getJSON('restaurant.json', function (data) {
-        $.each(data.restaurant, function (i, f) {
-          var tblRow = '<span class="thisspan" onclick="clickspan('+ f.id +')"><div class="row">' + "<img src=" + f.picture + " class=img-thumbnail col-6>" + " </img>" +
-            "<h1 col-2>" + f.name + "</h1>" + "<p col-4>" + f.location + "</p>" + "</div></span>" + "<div><iframe src= " + f.map + " width=600 height=450 frameborder=0 style=border:0; allowfullscreen= aria-hidden=false tabindex=0></iframe></div>"
-          $(tblRow).appendTo("#restaurantData");
-        });
+    <style>
+        body {
+            background-image: url('background.png');
+        }
+    </style>
+</head>
 
-      });
+<body id="apple">
 
-    });
+    <div class="navbar navbar-expand-sm bg-dark navbar-dark ">
+        <!-- Brand -->
+        <a class="navbar-brand" href="#">foodputa 2.0</a>
 
-    
-           function clickspan(f){
-            window.location.href='1.html';
-            
-            }
-        
+        <!-- Links -->
+        <ul class="navbar-nav">
+            <li class="nav-item">
+                <a class="nav-link" href="1.html" target="#apple">Link 1</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Link 2</a>
+            </li>
+
+            <!-- Dropdown -->
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown"> Saint</a>
+                <div class="dropdown-menu">
+                    <a class="dropdown-item" href="#">Link 1</a>
+                    <a class="dropdown-item" href="#">Link 2</a>
+                    <a class="dropdown-item" href="#">Link 3</a>
+                </div>
+            </li>
+        </ul>
+    </div>
+
+
+</body>
+
+</html>
