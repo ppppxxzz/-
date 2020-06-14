@@ -1,5 +1,5 @@
-
-
+/***@name StatObject
+*/
 var restaurant = [];
 
 function enterstore() {
@@ -43,7 +43,7 @@ function clickspan(f) {
 
         for (var y = 0; y < 3; y++) {
           for (var y = 0; y < 4; y++) {
-            var tblRow = '<p style=" padding-bottom:40px;" id="iton' + y + '" onclick="itonplus()">' + d.ad[y] + '</p>'
+            var tblRow = '<p style=" padding-bottom:40px;" id="iton' + y + '" onclick="itonplus()">' + d.A + '</p>'
             $(tblRow).appendTo("#menu");
             console.log(1);
           }
