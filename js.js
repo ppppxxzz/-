@@ -37,13 +37,13 @@ function clickspan(f) {
   //menu
   $.getJSON('restaurant.json', function (data) {
     $.each(data, function (i, d) {
-      
-      if (f == d.id) {
 
-        for (var y = 0; d.y; y++) {
-          var tblRow = '<p style=" padding-bottom:40px;" id="iton' + y + '" onclick="itonplus(' + y + ',' + d.y + ')">' + d.y + '</p>'
+      if (f == d.id) {
+        console.log(1);
+        for (var y = 0; y < 3; y++) {
+          var tblRow = '<p style=" padding-bottom:40px;" id="iton' + y + '" onclick="itonplus(' + y + ',' + d.menu.y + ')">' + d.menu.y + '</p>'
           $(tblRow).appendTo("#menu");
-          alert("I am an alert box!");
+
         }
 
       }
@@ -65,7 +65,7 @@ function itonplus(i, iton) {
 function updata() {
   $("#item").empty();
   for (var i = 0; i < a.length; i++) {
-    var tblRow = '<p style=" padding-bottom:40px;"> '+a[i] +": "+b[a[i]] +' </p>'
+    var tblRow = '<p style=" padding-bottom:40px;"> ' + a[i] + ": " + b[a[i]] + ' </p>'
     $(tblRow).appendTo("#item");
   }
 }
