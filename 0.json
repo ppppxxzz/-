@@ -1,0 +1,1047 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CrQCJwEAAClr1QsiCIQMwqEVRmWHU3iPaycPVdkOE9VdAAkAPSI0qMKDkcfrP49a1BGl-cUE1U3FIq99-I-1mnZxPSo3hIaakl2d7bbNXckbkxwfMrEhjqBlnk6rbqRpQe94JrdYgOxnxewvh_Rz7JzluWCg9KdWrsmNM4d7NhZ4UI0geS5V4e8WTjnEUwmRocEZkOslXPHftAJTLPIw9ocX07mJpi0h2hIE7QTYu3n93xuSDv84WC8q4aOyuPSyPKYO-IptGWyYf9oDzeKcd_pugL-xVOS5A-WlmzWypfBAGrBEORMgNUUdRHF9WmYIgnyYCxcW4sy-oxHDu7YnSWpzImSjoU55Ojvt073IXJJlQg-0GK2qi2ZqhfZqJxVGtoV1yQMJxFhoo0RwhhtvmqtPRt6Rt-kSELOg569vAUgS3fjwQByZbssaFIuyJBVTsJmi4TXlIrsNfK1bjezo",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 23.7150669,
+                    "lng": 120.5412369
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 23.71644457989272,
+                        "lng": 120.5425650798927
+                    },
+                    "southwest": {
+                        "lat": 23.71374492010727,
+                        "lng": 120.5398654201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "80cf570fec2bcd7f6a95ceadd7ee8d37470cd26a",
+            "name": "海村澎湖活海鮮餐廳-中式台年菜 喜宴尾牙春酒 團體聚餐(人氣必吃推薦)",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2976,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/104446769295252990324\"\u003eguban lu\u003c/a\u003e"
+                    ],
+                    "photo_reference": "CmRaAAAAKDxM5EL81qUSRgCHEBOps1oUX3Ogh-XVAXjNdLp6cXkoQtX7pHXNAZxcCZE6WHVc_XonOdGGgHlGeWDyO7e9nchc40eDhM2uGYhEF8_ueTvVrI-vZA0P1AYlfaExXRaUEhCcMKwikCdnzu_jzF31MqHDGhR75FS779qWpT1Q8rZSl1Ea9kWclw",
+                    "width": 3968
+                }
+            ],
+            "place_id": "ChIJDZFdszHIbjQRmyxpPhxhArU",
+            "plus_code": {
+                "compound_code": "PG8R+2F 公誠里 雲林縣斗六市",
+                "global_code": "7QM2PG8R+2F"
+            },
+            "price_level": 2,
+            "rating": 4.1,
+            "reference": "ChIJDZFdszHIbjQRmyxpPhxhArU",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1216,
+            "vicinity": "斗六市南京路430號"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 23.6983512,
+                    "lng": 120.5366522
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 23.69966652989272,
+                        "lng": 120.5379934298927
+                    },
+                    "southwest": {
+                        "lat": 23.69696687010728,
+                        "lng": 120.5352937701072
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "8ea405d134bba79a568ee72b56006f68e1775e0f",
+            "name": "醬子複合美食餐廳",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/106055172524742688572\"\u003e鐘國銘\u003c/a\u003e"
+                    ],
+                    "photo_reference": "CmRaAAAALOPp_CuzEHpjWg0vH46LLGoON9t5GYf1UG5aNc4YcZr2va8PwA_Ktrx1EL-qrV4ZU2sj785swZdE7YAkCbwvjKQqHtJY24su6i82UIqIx1lC_GYmgDsvvWosfPKtcWSqEhBSkHEvY6JFGAIYB5RqBq4YGhRfG44VKoGUXVEuUL1pAg4MrrLNJA",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJF6TdnxnIbjQR07VyHc-nbHc",
+            "plus_code": {
+                "compound_code": "MGXP+8M 鎮南里 雲林縣斗六市",
+                "global_code": "7QM2MGXP+8M"
+            },
+            "price_level": 2,
+            "rating": 4.2,
+            "reference": "ChIJF6TdnxnIbjQR07VyHc-nbHc",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 389,
+            "vicinity": "斗六市明德路103之1號"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 23.700043,
+                    "lng": 120.5413876
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 23.70140527989272,
+                        "lng": 120.5428092798927
+                    },
+                    "southwest": {
+                        "lat": 23.69870562010728,
+                        "lng": 120.5401096201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "e2cdbc90c4cea5a08a89b40551ca4329c448d114",
+            "name": "CHICO 餐廚",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/118294257750252274680\"\u003e林奕廷\u003c/a\u003e"
+                    ],
+                    "photo_reference": "CmRaAAAAjps5d9iOWqqtO7pB2LTjwrqh-ZWl065wR3Nk_5wWJ2lmLkoRoxX-lzzx0LeN2apyYJV2S38ZikFLVnkvLw5G8kyeuQ93uMTvHbRv3k8fhr2U9z7ktbkzi47QX6gQ_yrNEhDLuSiZtEmeBR-vJgvC0ChdGhT21RZfeadTGI9T5ATw3eJrLy2iuA",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJjTn-uBfIbjQR0Nj7epyLlEo",
+            "plus_code": {
+                "compound_code": "PG2R+2H 社口里 雲林縣斗六市",
+                "global_code": "7QM2PG2R+2H"
+            },
+            "price_level": 2,
+            "rating": 4.2,
+            "reference": "ChIJjTn-uBfIbjQR0Nj7epyLlEo",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 520,
+            "vicinity": "斗六市鎮南路176號"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 23.7034683,
+                    "lng": 120.5368617
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 23.70481732989272,
+                        "lng": 120.5382843798927
+                    },
+                    "southwest": {
+                        "lat": 23.70211767010727,
+                        "lng": 120.5355847201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "417d5e5dc1f67fc2ebfd3e3c54410622ee9aa6e3",
+            "name": "異人館 - 斗六店",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/116976458482342079436\"\u003e朱雨涵\u003c/a\u003e"
+                    ],
+                    "photo_reference": "CmRaAAAArwhQWjUuM4NvnMYxRXXz2CiqflwCFEirleVL4wVMtcSHWxPjub7HuKphgh4QQHMLSn6Z46cmxPihal7ZWM7wrmVeFEhtBPPX_Ld5dsp6TocPNRTtyCtlR85ynyn5MGt4EhA_IvWdplByUVuDspU2YGOeGhTkseQVdE8oK63GvvkbogUA7TKcCA",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJlZx8exjIbjQROm2Pv_QxfNc",
+            "plus_code": {
+                "compound_code": "PG3P+9P 鎮南里 雲林縣斗六市",
+                "global_code": "7QM2PG3P+9P"
+            },
+            "price_level": 2,
+            "rating": 3.9,
+            "reference": "ChIJlZx8exjIbjQROm2Pv_QxfNc",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 584,
+            "vicinity": "斗六市民生南路130號"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 23.712409,
+                    "lng": 120.539595
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 23.71370942989272,
+                        "lng": 120.5409812798927
+                    },
+                    "southwest": {
+                        "lat": 23.71100977010728,
+                        "lng": 120.5382816201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "18de08b40478bdb9aa0623cf3dd71b05bfe79364",
+            "name": "花心餐飲",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1152,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/106607809231434050582\"\u003e黃麗淑\u003c/a\u003e"
+                    ],
+                    "photo_reference": "CmRaAAAAW-g9FMVRznw3nShVvnaR3qlykow_3DXgYMXYW0pmhVFbpA_wcWlGBioZxKgn1Y9qyyu6XofF7uHkBHN9IAcFgW62IG8hbycA255VGebO3WxAgi9wCG3E9KLtKfcarrp8EhAKDyPAGLA-yARjC6p79CHJGhQbP4VujvGrc_yZSyS3UbF7FU3ArA",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJtb1M_i_IbjQRhQ0OyxLLET4",
+            "plus_code": {
+                "compound_code": "PG6Q+XR 三平里 雲林縣斗六市",
+                "global_code": "7QM2PG6Q+XR"
+            },
+            "price_level": 2,
+            "rating": 4.1,
+            "reference": "ChIJtb1M_i_IbjQRhQ0OyxLLET4",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 174,
+            "vicinity": "斗六市漢口路159號"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 23.7096384,
+                    "lng": 120.5449675
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 23.71095667989272,
+                        "lng": 120.5463159298927
+                    },
+                    "southwest": {
+                        "lat": 23.70825702010728,
+                        "lng": 120.5436162701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "f2ffe1f01456eb7f78852d9d5f98b9cea6e42b49",
+            "name": "嗨客小館-陶燒鍋",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/109387609871920660240\"\u003e李柏霆\u003c/a\u003e"
+                    ],
+                    "photo_reference": "CmRaAAAAGK43CcEHkt_SW1ReOE0g6U1MSg7rBSO1AmuECHiVgYcCuQ5UE-vfvT_X0RJkp6ziTwpb8ZtCzAX-PKYlHzJspRyW8ipr_l0pvLzf6AXuPNmqQtNF74pKaT7BgmdeRf9rEhCnnKJexqMpuMEW7E_G1FDYGhScbx8EU-ZnZLHKP8dsu0Z4Hp46xg",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJuTOyJzrIbjQROBWRNtZdmKs",
+            "plus_code": {
+                "compound_code": "PG5V+VX 忠孝里 雲林縣斗六市",
+                "global_code": "7QM2PG5V+VX"
+            },
+            "price_level": 1,
+            "rating": 4.3,
+            "reference": "ChIJuTOyJzrIbjQROBWRNtZdmKs",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 108,
+            "vicinity": "號, No. 99大同路斗六市"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 23.7146454,
+                    "lng": 120.5420504
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 23.71603022989272,
+                        "lng": 120.5433742298927
+                    },
+                    "southwest": {
+                        "lat": 23.71333057010728,
+                        "lng": 120.5406745701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "4ec9297f735eb4e513b64f23a7a0f9e3fcbc86b3",
+            "name": "16號廚房素食餐廳 斗六店",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/108799443152015556032\"\u003e王騰鋒\u003c/a\u003e"
+                    ],
+                    "photo_reference": "CmRaAAAALUk5jirVn0AEyAn8nRqKOqOLq1NVXAsw37E6rnrhW7E8IMU1qtGmgNUkqSybB-_ru4anc6H1tSMZ-uZa5lY4aK5Qgh6b5rtuM61Kez8AoYi-4bFqdU3-u8QWoPBhslm2EhAuWoJsDxpH95LGezDKJO8jGhS4QjlVmb-Mk0ANC9T8QKlOaFtkdg",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJxSTXkCTIbjQRz8gwx8j9WJM",
+            "plus_code": {
+                "compound_code": "PG7R+VR 公誠里 雲林縣斗六市",
+                "global_code": "7QM2PG7R+VR"
+            },
+            "price_level": 2,
+            "rating": 4.3,
+            "reference": "ChIJxSTXkCTIbjQRz8gwx8j9WJM",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 464,
+            "vicinity": "斗六市上海路244號640"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 23.7050396,
+                    "lng": 120.5378525
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 23.70639867989272,
+                        "lng": 120.5391527298927
+                    },
+                    "southwest": {
+                        "lat": 23.70369902010728,
+                        "lng": 120.5364530701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "a7ce1b374cf703f40dffba067524607e5e607e59",
+            "name": "異想の家創意廚房",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1722,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/112666112479492329569\"\u003e異想の家\u003c/a\u003e"
+                    ],
+                    "photo_reference": "CmRaAAAAWuSAP6EHDnHHyN3_TlMrWLr3wVND7CAJ3UjFJX7tec31qQA6edOLxFzab9zv4pQX_hix_k3trvzUXza7UWLoKeI04SxE1Vmhn4bp-A8hdq5hzZq995_gGdbd7wBSBGTjEhAQUCkQwJ8p1uWW3inMcsVoGhTb1fhhXlqIHXNkWrC1a307q2QU9g",
+                    "width": 2480
+                }
+            ],
+            "place_id": "ChIJI6JjHiPIbjQRNlX7n1TDDgo",
+            "plus_code": {
+                "compound_code": "PG4Q+24 斗六 雲林縣斗六市",
+                "global_code": "7QM2PG4Q+24"
+            },
+            "price_level": 1,
+            "rating": 4.8,
+            "reference": "ChIJI6JjHiPIbjQRNlX7n1TDDgo",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 25,
+            "vicinity": "斗六市三和街29 號"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 23.7118675,
+                    "lng": 120.5388886
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 23.71320052989272,
+                        "lng": 120.5402518798927
+                    },
+                    "southwest": {
+                        "lat": 23.71050087010727,
+                        "lng": 120.5375522201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "c12b97f172ea9dc7e2171129488ae08b1fc3c309",
+            "name": "雲林斗六八斗子海鮮餐廳 喜慶婚宴會館 尾牙年菜 春酒聚餐 團體聚會 外燴海鮮",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/102787110183344218211\"\u003eA Google User\u003c/a\u003e"
+                    ],
+                    "photo_reference": "CmRaAAAAbILHjYgKxe93foW5ta8eoqvd-gGehB5ytVK7GuLYbEoRspbviwgdo4gllCZBGrlNI6N3cg8ClK94x8BPEOdreLKYmJYKU0lQ30mE2tih4Yobix2faFC_GjkYu9UTR2VvEhACP83NniKdb0hn8v_vVTCGGhS4fEDMmbzt8yJo1fXGA5KZfvXajQ",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJi3qKaFjJbjQRrVX3YVIgcKs",
+            "plus_code": {
+                "compound_code": "PG6Q+PH 三平里 雲林縣斗六市",
+                "global_code": "7QM2PG6Q+PH"
+            },
+            "rating": 4.7,
+            "reference": "ChIJi3qKaFjJbjQRrVX3YVIgcKs",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 239,
+            "vicinity": "斗六市漢口路141號"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 23.7009149,
+                    "lng": 120.5345854
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 23.70231887989272,
+                        "lng": 120.5359596798928
+                    },
+                    "southwest": {
+                        "lat": 23.69961922010728,
+                        "lng": 120.5332600201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "9a90c33910386fa66f992649a127466296daff72",
+            "name": "椰香天堂泰式創意料理餐廳",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/106775040201322714341\"\u003eMac Fu\u003c/a\u003e"
+                    ],
+                    "photo_reference": "CmRaAAAAP97DbOAhqdyH8vs3A3Dj_bdyHcJwnKQdADEq-qZirl03U3CQvePMxLpAge19jkgu3gCmiftzipz3xGcaHD1mzVfV4YSZMs_JgOEmmvSbsjhyVHdF383KxZ3oSNmwhsjeEhDZV4K12D_TLw7kxnOZDN-RGhSueUDYg9UF-46jQGzdkApbLa0c5w",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJN5qy3BjIbjQRR2JHrsBYE4Q",
+            "plus_code": {
+                "compound_code": "PG2M+9R 鎮南里 雲林縣斗六市",
+                "global_code": "7QM2PG2M+9R"
+            },
+            "price_level": 2,
+            "rating": 4,
+            "reference": "ChIJN5qy3BjIbjQRR2JHrsBYE4Q",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 505,
+            "vicinity": "斗六市中堅西路577號"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 23.7000231,
+                    "lng": 120.5378203
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 23.70139867989272,
+                        "lng": 120.5391759798927
+                    },
+                    "southwest": {
+                        "lat": 23.69869902010728,
+                        "lng": 120.5364763201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "e0554dbae88ca1dbd1eabe5d408b54ebc6d40a28",
+            "name": "Food One 餐酒館",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3004,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/104916529138878614243\"\u003e許欣筠\u003c/a\u003e"
+                    ],
+                    "photo_reference": "CmRaAAAAz3wGdZRvEvikH_DxP8K4zv7lj3HIe3Ws_xdW0HVkla8vGV4-8CzA6psj0RdedQmS8w5LQgD2xNSFOIeZm1ZV5WfpDbsKnTujH0SkbLEyWAGqt0-L-ZoQH8L4dj7_g5NYEhAe3JA9cKn4J07llMAXSP2wGhSOlUZdXvMg3BzsZmxNDcNSf6GCUQ",
+                    "width": 5325
+                }
+            ],
+            "place_id": "ChIJO911SRjIbjQR-KIxmumcdZM",
+            "plus_code": {
+                "compound_code": "PG2Q+24 鎮南里 雲林縣斗六市",
+                "global_code": "7QM2PG2Q+24"
+            },
+            "price_level": 2,
+            "rating": 4.2,
+            "reference": "ChIJO911SRjIbjQR-KIxmumcdZM",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 193,
+            "vicinity": "斗六市中堅西路7號"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 23.7024217,
+                    "lng": 120.5319295
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 23.70377057989272,
+                        "lng": 120.5332790298928
+                    },
+                    "southwest": {
+                        "lat": 23.70107092010727,
+                        "lng": 120.5305793701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "1ccae0907e610d2c761cf4fc39e893e8ad03e476",
+            "name": "同廚",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/117397730785316581556\"\u003eAtomic kitchen 同廚\u003c/a\u003e"
+                    ],
+                    "photo_reference": "CmRaAAAAiAhJOEBPXMdIPznC8DhUx0L_ll_Z6Os-usqOZRx641OT3xJM-rf-Zb4NXl83b2811UP0Y_f8hJf3Y1oIJ-gpTr2I64BX6ZmoA9RR3sQsJ5li6akGfcVDZEeC81CdySD9EhC8X3ewmX4QPT_v4ojg0OPVGhSZ9fECZo4QBx6aBbBpdD9IVPAHgQ",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJv_6Z3CLIbjQRRUSu8QX47lU",
+            "plus_code": {
+                "compound_code": "PG2J+XQ 鎮西里 雲林縣斗六市",
+                "global_code": "7QM2PG2J+XQ"
+            },
+            "price_level": 2,
+            "rating": 4.4,
+            "reference": "ChIJv_6Z3CLIbjQRRUSu8QX47lU",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 186,
+            "vicinity": "斗六市中堅西路708號"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 23.6974155,
+                    "lng": 120.5416589
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 23.69867567989272,
+                        "lng": 120.5430340298927
+                    },
+                    "southwest": {
+                        "lat": 23.69597602010728,
+                        "lng": 120.5403343701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "43b15e3fb00e8997956c88923f791b46e16059c1",
+            "name": "斗六釣魚台活漁海鮮餐廳＿道地台川菜企業宴客尾牙春酒家庭聚餐婚宴首選",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/117950645697860637186\"\u003e雞小捲\u003c/a\u003e"
+                    ],
+                    "photo_reference": "CmRaAAAAkFZb1TRJqBSGyv2HQHKbQSmoSzz1hQ1LGHDRy4hNLSe0xfokBVKHPLaWRMp4gJx29N6OEP5gj-xqakWb1uX711_TuLHOldQ6doagCqc8-YZ7_-3nmT8HPJ_W9CfV2Kh6EhDPDgJ2150mnsxNT4MKTiUWGhQZv55zITdtGFXQOVn73xnu_ULAiA",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJQZX3JhLJbjQRDa3aCapbA44",
+            "plus_code": {
+                "compound_code": "MGWR+XM 鎮南里 雲林縣斗六市",
+                "global_code": "7QM2MGWR+XM"
+            },
+            "price_level": 2,
+            "rating": 4.7,
+            "reference": "ChIJQZX3JhLJbjQRDa3aCapbA44",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 617,
+            "vicinity": "斗六市南揚街12號"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 23.7030523,
+                    "lng": 120.5375358
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 23.70435312989272,
+                        "lng": 120.5388787798927
+                    },
+                    "southwest": {
+                        "lat": 23.70165347010728,
+                        "lng": 120.5361791201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "fb4cd74839a999907bd144095b5160082d8d2b90",
+            "name": "鄉草罐子小館",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/101211349430817280457\"\u003e張喻凱\u003c/a\u003e"
+                    ],
+                    "photo_reference": "CmRaAAAA885-0mdLRQeC3LY8UG6y3btxqtMYrSQGGj04BcFM_YtRf-AokaB71-I6Tylv9-vw9nDAl3MPsYgALxuSomLj2YKb2EbLGtsxTbskmPBhMjxZyNmzI87SEsFD33YoCwEoEhC0gzRUQ4OzkMcW1uQHcPmLGhRRkpLz8g8o5GksLfZWdEqHbWzNnQ",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ01IdmiLIbjQRKAb857LbDN4",
+            "plus_code": {
+                "compound_code": "PG3Q+62 鎮南里 雲林縣斗六市",
+                "global_code": "7QM2PG3Q+62"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJ01IdmiLIbjQRKAb857LbDN4",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 340,
+            "vicinity": "斗六市永昌西街42-2號"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 23.7102437,
+                    "lng": 120.5312721
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 23.71164437989272,
+                        "lng": 120.5325185798927
+                    },
+                    "southwest": {
+                        "lat": 23.70894472010728,
+                        "lng": 120.5298189201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "e624d339ad40fb1af15d8e5d77b3e2c7659df769",
+            "name": "官東燒肉食堂",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/114868873475711850130\"\u003e李雪貓\u003c/a\u003e"
+                    ],
+                    "photo_reference": "CmRaAAAAqfyEmyu-j8f_HjTx1gARzloLRv3WkuCvrB2m2wEYndOsp6vNssCmH7QGIp1zTA5Lskn5PLRIQ4wkaehvGWPNR4-ZzNkVH7tY9KisJufE_OmCJKqCbVOGMtCtsrglO4eGEhA74UmWe3QQzw85r-6AnR7AGhSc8743a1FZT1Xi99UeVh4dwjemfA",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJ35yB0iDIbjQRkzG-Ek7FP2A",
+            "plus_code": {
+                "compound_code": "PG6J+3G 保庄里 雲林縣斗六市",
+                "global_code": "7QM2PG6J+3G"
+            },
+            "price_level": 3,
+            "rating": 4.2,
+            "reference": "ChIJ35yB0iDIbjQRkzG-Ek7FP2A",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 560,
+            "vicinity": "斗六市明德北路三段89號"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 23.712344,
+                    "lng": 120.53827
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 23.71371632989272,
+                        "lng": 120.5396022298928
+                    },
+                    "southwest": {
+                        "lat": 23.71101667010728,
+                        "lng": 120.5369025701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "a7fbb6d004dc0973b69edd695a7a232446dcf536",
+            "name": "隐の咖喱 丼",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/116595563398779001734\"\u003e姵誼沈\u003c/a\u003e"
+                    ],
+                    "photo_reference": "CmRaAAAAUH4ehR-hkuS_CVfskPM5X3S-4di3kyP7u1k1DFmMpc8YECNxTzeEWRCaz92SsP-raI7_unj1OLq_VJ4YunLLvlNKrUZylaVo0GTMp43jMYfNE6qorUH_454xMi85ICUzEhCuih6sjuftBqGIiY533nBSGhRj_xp0t2YLaOdIIg8qRMKGmBfPRA",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJzVstXSXIbjQRpToA7_Z7GXg",
+            "plus_code": {
+                "compound_code": "PG6Q+W8 三平里 雲林縣斗六市",
+                "global_code": "7QM2PG6Q+W8"
+            },
+            "price_level": 2,
+            "rating": 4.3,
+            "reference": "ChIJzVstXSXIbjQRpToA7_Z7GXg",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 244,
+            "vicinity": "斗六市上海路90號"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 23.7120252,
+                    "lng": 120.5426581
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 23.71338167989272,
+                        "lng": 120.5440033298927
+                    },
+                    "southwest": {
+                        "lat": 23.71068202010728,
+                        "lng": 120.5413036701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "b45d23cfc228f52693f12a0fd766a80559b4e6d9",
+            "name": "NU PASTA複合式餐廳 斗六店",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/117508728417294329970\"\u003e101 Huayra\u003c/a\u003e"
+                    ],
+                    "photo_reference": "CmRZAAAAinDllzN2rH5OWsOEGYn60yP7eYug62z6mg1iK63U7W26jA_jOP3BNqDIoPOQcWMEYXZcdNzelYCMqZLyvtowmiMaVbtUDYLWXe_VcS3B8PK5EezLsx1uiGVaKImW5tFiEhA-ZEzukk7x96rH0inQGNZkGhR_zYHeW3x-d_UZc9s_Avp4u179KA",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJL31NBNHJbjQRUCDgRoEquz0",
+            "plus_code": {
+                "compound_code": "PG6V+R3 信義里 雲林縣斗六市",
+                "global_code": "7QM2PG6V+R3"
+            },
+            "price_level": 2,
+            "rating": 3.9,
+            "reference": "ChIJL31NBNHJbjQRUCDgRoEquz0",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 86,
+            "vicinity": "斗六市民生路178號"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 23.703859,
+                    "lng": 120.541571
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 23.70520712989272,
+                        "lng": 120.5428708298927
+                    },
+                    "southwest": {
+                        "lat": 23.70250747010728,
+                        "lng": 120.5401711701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "d03c08a5d496188d9646914be70cd9d74dc6b5fe",
+            "name": "法米歐義式餐坊",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3840,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/113487795960547070455\"\u003e葉雅娟\u003c/a\u003e"
+                    ],
+                    "photo_reference": "CmRaAAAAXvisxqAjgk6NdEji2ZmemJEqdfw5RcuiFydYO-jv-1IcfWrNOoV2WRnpgnR4kfhO5p1SX9AJ0DkmYXKINNdZx8hYgUhhSygxP0z47UXWIqe49YvS0FcNjb19Z3bTmwWrEhDZuqG28TEdd3Y838b70I2JGhRUqICP4j2qHQMvs264FxKwUokxrA",
+                    "width": 2160
+                }
+            ],
+            "place_id": "ChIJScwI5hjIbjQRluYwMWqKe7I",
+            "plus_code": {
+                "compound_code": "PG3R+GJ 社口里 雲林縣斗六市",
+                "global_code": "7QM2PG3R+GJ"
+            },
+            "price_level": 2,
+            "rating": 3.9,
+            "reference": "ChIJScwI5hjIbjQRluYwMWqKe7I",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 207,
+            "vicinity": "斗六市六合街40號"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 23.6949187,
+                    "lng": 120.5274707
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 23.69630612989272,
+                        "lng": 120.5288134298927
+                    },
+                    "southwest": {
+                        "lat": 23.69360647010727,
+                        "lng": 120.5261137701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "c47c6ce054341d6fe1ccdae2f676487091b173d4",
+            "name": "完美主義手作料理 義式料理餐廳 義大利麵 燉飯 焗烤 下午茶 咖啡 鬆餅",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/102877241391999420059\"\u003eA Google User\u003c/a\u003e"
+                    ],
+                    "photo_reference": "CmRaAAAAHDrIM39RWVvjNQ1n-4EBYgH5-R2G6Kssf-HLeGJK1-FMz_XptcoXxR2gAIi09i0omB3FkyN_UI0WadX5ggW5_K588v_8UlCq2-j2Ft25OiAf33WtRURF6O295Jz3MtapEhAK_-MrOdgTsga1Mi77d_SxGhTGDmL18X7Rm909sbUFcrb2P8jUWA",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJd8c48m7JbjQRnFI2h7xeE4k",
+            "plus_code": {
+                "compound_code": "MGVG+XX 龍潭里 雲林縣斗六市",
+                "global_code": "7QM2MGVG+XX"
+            },
+            "rating": 4.3,
+            "reference": "ChIJd8c48m7JbjQRnFI2h7xeE4k",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 53,
+            "vicinity": "斗六市大學路三段235號"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 23.6994571,
+                    "lng": 120.5371587
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 23.70080652989272,
+                        "lng": 120.5384466298927
+                    },
+                    "southwest": {
+                        "lat": 23.69810687010728,
+                        "lng": 120.5357469701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "id": "84903e31e58d464b166036143472f1c76dedb31d",
+            "name": "花鳥山日式創意料理",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "\u003ca href=\"https://maps.google.com/maps/contrib/100016895778984807308\"\u003eLu Shin-Hung\u003c/a\u003e"
+                    ],
+                    "photo_reference": "CmRaAAAAqtnskhlqR9xsHOfvQd2XQpkXfOc3U2ZntmzynAaox5W3OeYOMngfUrADRGWfxpg9DosRZEykCVnfnFjDHfR2B-FR4y4G0BFGwBSr_PgD6lij02av_8XdUg6HHRZKf6V7EhDbWJeJ6f8asWhUH5ypqZ3UGhSfvL8aqD-T_hoZ_9DKe37xqr1bQA",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJMy3YrRnIbjQR3Lhvs_pGnBs",
+            "plus_code": {
+                "compound_code": "MGXP+QV 鎮南里 雲林縣斗六市",
+                "global_code": "7QM2MGXP+QV"
+            },
+            "price_level": 2,
+            "rating": 3.7,
+            "reference": "ChIJMy3YrRnIbjQR3Lhvs_pGnBs",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 610,
+            "vicinity": "斗六市民生南路233號"
+        }
+    ],
+    "status": "OK"
+}
