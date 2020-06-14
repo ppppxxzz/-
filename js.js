@@ -59,8 +59,12 @@ function itonplus(i, iton) {
   updata();
 }
 
-function updata(){
-  
+function updata() {
+  $("#item").empty();
+  for (var i = 0; i < a.length; i++) {
+    var tblRow = '<p> '+a[i] +": "+b[a[i]] +' </p>'
+    $(tblRow).appendTo("#item");
+  }
 }
 
 
