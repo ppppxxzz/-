@@ -40,7 +40,7 @@ function clickspan(f) {
       if (f == d.id) {
 
         for(var i=1;d.i;i++){
-          var tblRow = '<p id="iton'+ i +'" onclick="itonplus('+ i +')"></p>'
+          var tblRow = '<p id="iton'+ i +'" onclick="itonplus('+ i +')">'+ d.i +'</p>'
         $(tblRow).appendTo("#menu");
         }
         
